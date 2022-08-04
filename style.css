@@ -34,7 +34,7 @@ body {
   font-size: 26px;
   text-align: center;
   font-family: sans-serif;
-  font-weight: normal;
+  font-weight: 20px;
   margin-top: 0px;
   box-shadow: 0px 2px #bababa;
   background: white;
@@ -45,11 +45,11 @@ body {
   font-size: 15px;
   text-align: left;
   font-family: sans-serif;
-  font-weight: normal;
+  font-weight: 3px;
   line-height: 1.5;
   letter-spacing: 0.5px;
   word-spacing: 2.7px;
-  color: #1073d0;
+  color: rgb(51 53 54);
 }
 input[type="text"] {
   width: 140px;
